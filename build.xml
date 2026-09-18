@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Voce pode simplesmente abrir este projeto no Apache NetBeans -->
+<!-- (File > Open Project) apontando para a pasta ProjetoRH.      -->
+<!-- O NetBeans reconhece o project.xml / project.properties e    -->
+<!-- gera automaticamente o build-impl.xml internamente.          -->
+<project name="ProjetoRH" default="default" basedir=".">
+    <description>Builds, tests, and runs the project ProjetoRH.</description>
+    <import file="nbproject/build-impl.xml"/>
+</project>
